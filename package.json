@@ -1,0 +1,26 @@
+{
+  "name": "investtracker",
+  "version": "1.0.0",
+  "description": "A portfolio tracker:",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grodnane/investTracker.git"
+  },
+  "keywords": [
+    "porfolio",
+    "tracker",
+    "asset",
+    "stocks",
+    "trade"
+  ],
+  "author": "grodnane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grodnane/investTracker/issues"
+  },
+  "homepage": "https://github.com/grodnane/investTracker#readme"
+}
