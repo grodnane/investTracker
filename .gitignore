@@ -19,6 +19,7 @@ build
 reports
 i18n
 .nyc_output
+.github
 
 # Mocks
 mocks/development/
