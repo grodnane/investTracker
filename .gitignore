@@ -1,0 +1,29 @@
+# Logs
+*.log
+
+# Dependencies
+node_modules
+
+# Trash
+.DS_Store
+.idea
+.vscode
+
+# Coverage generated files
+coverage
+
+# Transpiled files
+build
+
+# Dynamically processed files
+reports
+i18n
+.nyc_output
+
+# Mocks
+mocks/development/
+
+.vs/*
+.vscode/*
+
+.nyc_output
